@@ -3,7 +3,6 @@ from managers import WindowManager, CaptureManager
 import rects
 from trackers import FaceTracker
 import filters
-import depth
 
 class Camera(object):
 
